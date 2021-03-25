@@ -1,2 +1,2 @@
 # cis1051demo
-how to use git
+Hello guys, this is my first readme.file
